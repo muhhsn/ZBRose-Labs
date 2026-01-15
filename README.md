@@ -1,5 +1,9 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=ZBRose%20Labs&fontSize=80&fontColor=D00000&animation=fadeIn&desc=Python&descColor=00FF00&descSize=30&descAlign=50&descAlignV=75" alt="ZBRose Header" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ZBRose%20Labs&fontSize=80&fontColor=D00000&animation=fadeIn" alt="ZBRose Header" />
+    
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=PYTHON" alt="Typing SVG" />
+    </a>
 </div>
 
 <div align="center">
