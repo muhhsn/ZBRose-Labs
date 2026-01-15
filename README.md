@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=ZBRose%20Labs&fontSize=80&fontColor=D00000&animation=fadeIn" alt="ZBRose Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ZBRose%20Labs&fontSize=80&fontColor=D00000&stroke=00FF00&strokeWidth=3&animation=fadeIn" alt="ZBRose Header" />
 </div>
 
 <div align="center">
