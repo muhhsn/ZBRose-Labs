@@ -1,10 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=130&section=header&text=ZBRose%20Labs&fontSize=70&fontColor=D00000&animation=fadeIn" alt="ZBRose Header" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=PYTHON+CORE+ACTIVE" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ZBRose%20Labs&fontSize=80&fontColor=D00000&animation=fadeIn" alt="ZBRose Header" />
 <br>
-<img src="https://img.shields.io/badge/🌹-ZB_ROSE-D00000?style=for-the-badge&labelColor=0d1117" alt="Rose">
-<img src="https://img.shields.io/badge/🐍-CYBER_SNAKE-00FF00?style=for-the-badge&labelColor=0d1117&logoColor=black" alt="Snake">
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=PYTHON" alt="Typing SVG" />
 </div>
 
 <div align="center">
