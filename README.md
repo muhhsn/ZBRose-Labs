@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=ZBRose%20Labs&fontSize=70&fontColor=D00000&animation=fadeIn" alt="ZBRose Header" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=PYTHON" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=ZBRose%20Labs&fontSize=80&fontColor=D00000&animation=fadeIn" alt="ZBRose Header" />
 </div>
 
 <div align="center">
