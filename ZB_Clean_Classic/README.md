@@ -72,6 +72,7 @@ Downloads/
 └── README.txt
 
 **sesudah (Rapi Dan Tersimpar Perfolder):**
+
 Destinasi/
 ├── xlsx/
 │   └── Laporan_Keuangan.xlsx
@@ -83,3 +84,11 @@ Destinasi/
 │   └── .env
 └── No_Extension/
     └── README.txt
+```
+## ⚖️ Disclaimer (Penafian)
+
+Software ini disediakan oleh ZBRose Labs dengan basis "as is" (sebagaimana adanya) tanpa jaminan apa pun, baik tersurat maupun tersirat.
+Pengembang tidak bertanggung jawab atas segala bentuk kehilangan data, kerusakan sistem, atau insiden lain yang mungkin timbul akibat penggunaan software ini. Pengguna bertanggung jawab penuh untuk melakukan pencadangan (backup) data penting sebelum menggunakan alat otomatisasi ini.
+
+---
+Copyright © 2026 ZBRose Labs.
