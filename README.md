@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=ZBRose%20Labs&fontSize=70&fontColor=D00000&fontAlignY=55&animation=fadeIn" alt="ZBRose Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=ZBRose%20Labs&fontSize=80&fontColor=D00000&animation=fadeIn" alt="ZBRose Header" />
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=for-the-badge&labelColor=1a1a1a&logoColor=black" alt="System Online">
-<img src="https://img.shields.io/badge/PLATFORM-PYTHON-D00000?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python">
+<br>
+<img src="https://img.shields.io/badge/PLATFORM-PYTHON%20ONLY-00FF00?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1a1a" alt="Python Only">
+<img src="https://img.shields.io/badge/MAINTAINED%3F-YES-D00000?style=for-the-badge&labelColor=1a1a1a" alt="Maintained">
 <br><br>
 </div>
 
